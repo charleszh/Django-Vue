@@ -1,0 +1,122 @@
+{}
+[u'D:\\Setup\\Python27\\Scripts\\LearnRF.robot']
+zhq no extension
+zhq in TestSuitebuilder build (u'D:\\Setup\\Python27\\Scripts\\LearnRF.robot',)
+zhq in TestSuiteBuildr len
+zhq in builder _parse D:\Setup\Python27\Scripts\LearnRF.robot []
+zhq in fromfilepopulator for populate
+zhq in get reader robot
+zhq in TsvReader read *** Test Cases ***
+[u'*** Test Cases ***']
+zhq in start table [u' Test Cases ']
+zhq in TsvReader read Demo
+[u'Demo']
+zhq in TsvReader read     Log    Test The RF Principle
+[u'', u'Log', u'Test The RF Principle']
+zhq in TsvReader read     sleep    2
+[u'', u'sleep', u'2']
+zhq in TsvReader read     TestUKW
+[u'', u'TestUKW']
+zhq in TsvReader read 
+[u'']
+zhq in TsvReader read Demo1
+[u'Demo1']
+zhq in TsvReader read     LOg    Test Case Demo1
+[u'', u'LOg', u'Test Case Demo1']
+zhq in TsvReader read     sleep    2
+[u'', u'sleep', u'2']
+zhq in TsvReader read 
+[u'']
+zhq in TsvReader read Demo2
+[u'Demo2']
+zhq in TsvReader read     Log    Test The RF Principle
+[u'', u'Log', u'Test The RF Principle']
+zhq in TsvReader read     sleep    2
+[u'', u'sleep', u'2']
+zhq in TsvReader read     TestUKW
+[u'', u'TestUKW']
+zhq in TsvReader read 
+[u'']
+zhq in TsvReader read Demo11
+[u'Demo11']
+zhq in TsvReader read     LOg    Test Case Demo1
+[u'', u'LOg', u'Test Case Demo1']
+zhq in TsvReader read     sleep    2
+[u'', u'sleep', u'2']
+zhq in TsvReader read 
+[u'']
+zhq in TsvReader read Demo3
+[u'Demo3']
+zhq in TsvReader read     Log    Test The RF Principle
+[u'', u'Log', u'Test The RF Principle']
+zhq in TsvReader read     sleep    2
+[u'', u'sleep', u'2']
+zhq in TsvReader read     TestUKW
+[u'', u'TestUKW']
+zhq in TsvReader read 
+[u'']
+zhq in TsvReader read Demo12
+[u'Demo12']
+zhq in TsvReader read     LOg    Test Case Demo1
+[u'', u'LOg', u'Test Case Demo1']
+zhq in TsvReader read     sleep    2
+[u'', u'sleep', u'2']
+zhq in TsvReader read 
+[u'']
+zhq in TsvReader read Demo4
+[u'Demo4']
+zhq in TsvReader read     Log    Test The RF Principle
+[u'', u'Log', u'Test The RF Principle']
+zhq in TsvReader read     sleep    2
+[u'', u'sleep', u'2']
+zhq in TsvReader read     TestUKW
+[u'', u'TestUKW']
+zhq in TsvReader read 
+[u'']
+zhq in TsvReader read Demo13
+[u'Demo13']
+zhq in TsvReader read     LOg    Test Case Demo1
+[u'', u'LOg', u'Test Case Demo1']
+zhq in TsvReader read     sleep    2
+[u'', u'sleep', u'2']
+zhq in TsvReader read 
+[u'']
+zhq in TsvReader read *** Keywords ***
+[u'*** Keywords ***']
+zhq in start table [u' Keywords ']
+zhq in TsvReader read TestUKW
+[u'TestUKW']
+zhq in KeywordTable TestUKW
+zhq in TsvReader read     Log    Debugging
+[u'', u'Log', u'Debugging']
+zhq in validate {'name': u'Demo', 'parent': <robot.parsing.model.TestCaseTable object at 0x00000000048D5EB8>, 'tags': <robot.parsing.settings.Tags object at 0x00000000048D6588>, 'teardown': <robot.parsing.settings.Fixture object at 0x00000000048D6668>, 'doc': <robot.parsing.settings.Documentation object at 0x00000000048D64A8>, 'setup': <robot.parsing.settings.Fixture object at 0x00000000048D65F8>, 'timeout': <robot.parsing.settings.Timeout object at 0x00000000048D66D8>, 'steps': [<robot.parsing.model.Step object at 0x00000000048D6438>, <robot.parsing.model.Step object at 0x00000000048D6780>, <robot.parsing.model.Step object at 0x00000000048D6748>], 'template': <robot.parsing.settings.Template object at 0x00000000048D6518>}
+zhq in build suite D:\Setup\Python27\Scripts\LearnRF.robot ['__class__', '__delattr__', '__dict__', '__doc__', '__format__', '__getattribute__', '__hash__', '__init__', '__iter__', '__module__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_deprecated', '_format_name', '_get_basename', '_get_tables', '_keyword_table_names', '_report_deprecated', '_setting_table_names', '_strip_possible_prefix_from_name', '_table_is_allowed', '_tables', '_testcase_table_names', '_validate', '_variable_table_names', 'children', 'directory', 'has_tests', 'imports', 'keyword_table', 'keywords', 'name', 'parent', 'populate', 'report_invalid_syntax', 'save', 'setting_table', 'source', 'start_table', 'testcase_table', 'variable_table'] TestUKW
+zhq in ResourceFileBuilder ['__class__', '__delattr__', '__dict__', '__doc__', '__format__', '__getattribute__', '__hash__', '__init__', '__iter__', '__module__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', '__weakref__', '_deprecated', '_format_name', '_get_basename', '_get_tables', '_keyword_table_names', '_report_deprecated', '_setting_table_names', '_strip_possible_prefix_from_name', '_table_is_allowed', '_tables', '_testcase_table_names', '_validate', '_variable_table_names', 'children', 'directory', 'has_tests', 'imports', 'keyword_table', 'keywords', 'name', 'parent', 'populate', 'report_invalid_syntax', 'save', 'setting_table', 'source', 'start_table', 'testcase_table', 'variable_table'] D:\Setup\Python27\Scripts
+<method-wrapper '__str__' of list object at 0x0000000004937288>
+In the function
+==============================================================================
+LearnRF                                                                       
+==============================================================================
+Demo                                                                  | PASS |
+------------------------------------------------------------------------------
+Demo1                                                                 | PASS |
+------------------------------------------------------------------------------
+Demo2                                                                 | PASS |
+------------------------------------------------------------------------------
+Demo11                                                                | PASS |
+------------------------------------------------------------------------------
+Demo3                                                                 | PASS |
+------------------------------------------------------------------------------
+Demo12                                                                | PASS |
+------------------------------------------------------------------------------
+Demo4                                                                 | PASS |
+------------------------------------------------------------------------------
+Demo13                                                                | PASS |
+------------------------------------------------------------------------------
+LearnRF                                                               | PASS |
+8 critical tests, 8 passed, 0 failed
+8 tests total, 8 passed, 0 failed
+==============================================================================
+Output:  E:\WorkSpace\MyProjects\DjangoDemo\output.xml
+Log:     E:\WorkSpace\MyProjects\DjangoDemo\log.html
+Report:  E:\WorkSpace\MyProjects\DjangoDemo\report.html
